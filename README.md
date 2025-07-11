@@ -1,3 +1,3 @@
 # github-demo
 
-Let's commit to Cloud DevOps - Yaaahoooo !
+Let's commit to Cloud DevOps !
